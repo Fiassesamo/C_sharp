@@ -2,3 +2,14 @@ C:\git_stud\Lab1\Lab1\obj\Debug\net8.0\Lab1.GeneratedMSBuildEditorConfig.editorc
 C:\git_stud\Lab1\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfoInputs.cache
 C:\git_stud\Lab1\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfo.cs
 C:\git_stud\Lab1\Lab1\obj\Debug\net8.0\Lab1.csproj.CoreCompileInputs.cache
+C:\git_stud\Lab1\Lab1\bin\Debug\net8.0\Lab1.exe
+C:\git_stud\Lab1\Lab1\bin\Debug\net8.0\Lab1.deps.json
+C:\git_stud\Lab1\Lab1\bin\Debug\net8.0\Lab1.runtimeconfig.json
+C:\git_stud\Lab1\Lab1\bin\Debug\net8.0\Lab1.dll
+C:\git_stud\Lab1\Lab1\bin\Debug\net8.0\Lab1.pdb
+C:\git_stud\Lab1\Lab1\obj\Debug\net8.0\Lab1.sourcelink.json
+C:\git_stud\Lab1\Lab1\obj\Debug\net8.0\Lab1.dll
+C:\git_stud\Lab1\Lab1\obj\Debug\net8.0\refint\Lab1.dll
+C:\git_stud\Lab1\Lab1\obj\Debug\net8.0\Lab1.pdb
+C:\git_stud\Lab1\Lab1\obj\Debug\net8.0\Lab1.genruntimeconfig.cache
+C:\git_stud\Lab1\Lab1\obj\Debug\net8.0\ref\Lab1.dll
